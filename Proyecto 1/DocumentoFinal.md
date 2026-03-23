@@ -128,7 +128,25 @@ Al finalizar la exposición, se realizó una validación oral y física: la coor
 ---
  
 #### Angee Ximena Chojolan Oliva — Expositora, Subtema 2
+**Fortalezas**
+- Mostré buena actitud y energía durante la capacitación.
+- Utilice la imaginación de los niños para la explicación.
+- Use un lenguaje sencillo y entendible para los niños.
 
+**Debilidades**
+- Se me dificulto hablar en ciertos momentos por los nervios.
+- Dependí de las diapositivas en ciertos momentos.
+
+**Oportunidades**
+- Aprender nuevas técnicas para enseñar a niños.
+- Preparar más ejemplos o juegos.
+- Mejorar la proyección de mi voz.
+
+**Amenazas**
+- Algunos niños se distraían fácilmente.
+- Falta de experiencia previa trabajando con niños.
+- Falta de orden para la participación.
+  
 ---
  
 #### Jose Carlos González López — Expositor, Subtema 3
