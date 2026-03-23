@@ -156,9 +156,9 @@ Documento base presentado durante la discusión del equipo. Contenía:
 
 | Tema considerado | Ventajas | Desventajas | Decisión |
 |-----------------|----------|-------------|----------|
-| ¿Cómo piensa una computadora? | Fácil de dividir; actividad física obvia (robot humano) | Mayor abstracción para niños de 4 a 5 años | ❌ Descartado |
-| **Internet: ¿Cómo viaja la información?** | Relevante, adaptable con analogías, 5 subtemas claros | Requiere cuidado para evitar tecnicismos | ✅ Seleccionado |
-| Inteligencia Artificial en la vida cotidiana | Tema de actualidad con muchos ejemplos | Demasiado abstracto para niños de hasta 7 años | ❌ Descartado |
+| ¿Cómo piensa una computadora? | Fácil de dividir; actividad física obvia (robot humano) | Mayor abstracción para niños de 4 a 5 años |  Descartado |
+| **Internet: ¿Cómo viaja la información?** | Relevante, adaptable con analogías, 5 subtemas claros | Requiere cuidado para evitar tecnicismos |  Seleccionado |
+| Inteligencia Artificial en la vida cotidiana | Tema de actualidad con muchos ejemplos | Demasiado abstracto para niños de hasta 7 años |  Descartado |
 
 **Justificación del tema seleccionado:** Internet es parte del día a día del público desde muy temprana edad, puede explicarse completamente con analogías concretas y se divide de forma natural en exactamente 5 subtemas, uno por integrante.
 
@@ -216,10 +216,10 @@ Mediante 5 preguntas orales al final de la capacitación con respuesta física (
 | Sección | Tiempo asignado | Referencia del enunciado | Cumple |
 |---------|----------------|--------------------------|-----|
 | Introducción | 5 minutos | Máximo 5 minutos |  |
-| Rompehielos | 3 minutos | Incluido dentro de la introducción | ✅ |
-| Desarrollo (5 subtemas × 8 min) | 40 minutos | Mínimo 40 minutos | ✅ |
-| Actividad de participación | 8 minutos | Entre 8 y 10 minutos | ✅ |
-| Validación del aprendizaje | 2 minutos | Parte del cierre | ✅ |
+| Rompehielos | 3 minutos | Incluido dentro de la introducción |  |
+| Desarrollo (5 subtemas × 8 min) | 40 minutos | Mínimo 40 minutos |  |
+| Actividad de participación | 8 minutos | Entre 8 y 10 minutos |  |
+| Validación del aprendizaje | 2 minutos | Parte del cierre | |
 | Cierre | 2 minutos | Máximo 5 minutos |  |
 | **Total** | **60 minutos** | 50 a 60 minutos |  |
 
@@ -272,10 +272,10 @@ Cada expositor presenta su subtema en 8 minutos. Estructura interna de cada subt
 | # | Pregunta | Respuesta correcta |
 |---|----------|--------------------|
 | 1 | ¿Internet conecta a las personas? | SÍ  |
-| 2 | ¿Podemos usar internet sin pedirle permiso a un adulto? | NO 🪑 |
-| 3 | ¿La información viaja en sobrecitos llamados paquetes? | SÍ 👏 |
-| 4 | ¿Podemos decirle nuestro nombre a desconocidos en internet? | NO 🪑 |
-| 5 | ¿El internet llega a nuestras casas por el Wi-Fi? | SÍ 👏 |
+| 2 | ¿Podemos usar internet sin pedirle permiso a un adulto? | NO  |
+| 3 | ¿La información viaja en sobrecitos llamados paquetes? | SÍ  |
+| 4 | ¿Podemos decirle nuestro nombre a desconocidos en internet? | NO  |
+| 5 | ¿El internet llega a nuestras casas por el Wi-Fi? | SÍ  |
 
 ### 6.5 Cierre (2 minutos) — Jeimy González
 
@@ -297,13 +297,6 @@ Cada expositor presenta su subtema en 8 minutos. Estructura interna de cada subt
 | Evidencia de participación | Fotografías + resultados de validación | Astrid Alejandra Sánchez | 24/03/2026 |
 | Presentación de diapositivas | PowerPoint / Canva | Danya Nicolle Gámez | Previo a la capacitación |
 | Repositorio GitHub | **CA_S1_G3** / carpeta **Proyecto1** | Jeimy González | 24/03/2026 |
-
-> **Notas importantes:**
-> - El repositorio debe llamarse exactamente **CA_S1_G3**.
-> - El coordinador del grupo debe crearlo y agregar al auxiliar de la sección como colaborador.
-> - El video de ejecución debe ser **público** en YouTube; de no serlo se aplica penalización.
-> - Los informes **no se aceptan en formato PDF**.
-> - **No se otorga prórroga para la entrega.**
 
 ---
 
