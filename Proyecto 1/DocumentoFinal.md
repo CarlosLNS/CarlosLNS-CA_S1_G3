@@ -220,7 +220,7 @@ El siguiente análisis refleja el desempeño colectivo del Grupo 3, Sección A, 
 ---
 
 ### Anexo D — Presentación de Diapositivas
-
+https://www.canva.com/design/DAHDx1mxfrU/_kvbQFFQKFwYRRWyxJNCIg/edit?utm_content=DAHDx1mxfrU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton 
 ---
 
 ### Anexo F — Evidencia de Comunicación con la Institución
