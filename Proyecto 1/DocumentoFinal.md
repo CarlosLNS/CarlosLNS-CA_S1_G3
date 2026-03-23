@@ -11,7 +11,7 @@
 | Integrante | Carné |
 |-----------|-------|
 | Jeimy González  | 202504807 |
-| Danya Nicolle Gámez Ruiz |  |
+| Danya Nicolle Gómez Ruiz | 202503869 |
 | Angee Ximena Chojolan Oliva | |
 | Jose Carlos González López | 202505069 |
 | Carlos Alberto Alonso Loarca | 202505558 |
@@ -124,6 +124,29 @@ Al finalizar la exposición, se realizó una validación oral y física: la coor
 ---
  
 #### Danya Nicolle Gámez Ruiz — Expositora, Subtema 1
+**Fortaleza**
+- Participé activamente en la planificación
+- Expliqué los temas con lenguaje sencillo para los niños
+- Colaboré bien con mi equipo
+- Fui responsable con las tareas asignadas
+- Mostré paciencia al trabajar con niños
+
+**Oportunidades**
+- Adquirir experiencia con niños
+- Aplicar lo aprendido a futuro
+- Tener un mejor desempeño social
+
+**Debilidades**
+- Ponerme nerviosa
+- Más preparación en algunos temas
+- Organizacion en el dia de la actividad
+- Poca experiencia en actividades educativas
+
+**Amenazas**
+- Tiempo limitado para realizar la capacitación
+- Problemas técnicos con equipo o materiales
+- Cambios de último momento en la planificación
+- Atencion de los niños que se aburrieron con el tiempo
 
 ---
  
@@ -237,6 +260,10 @@ El siguiente análisis refleja el desempeño colectivo del Grupo 3, Sección A, 
 ---
 
 ### Anexo B — Video de Ejecución de la Capacitación
+
+Ver video en YouTube: https://youtu.be/aCP-giAH9Mg
+
+---
 
 ---
 
