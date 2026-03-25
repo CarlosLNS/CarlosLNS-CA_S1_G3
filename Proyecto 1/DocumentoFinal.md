@@ -10,7 +10,7 @@
 
 | Integrante | Carné |
 |-----------|-------|
-| Jeimy González  | 202504807 |
+| Jeimy Mariana González  lópez | 202504807 |
 | Danya Nicolle Gómez Ruiz | 202503869 |
 | Angee Ximena Chojolan Oliva | 202505018 |
 | Jose Carlos González López | 202505069 |
@@ -316,7 +316,9 @@ Ver video en YouTube: https://youtu.be/aCP-giAH9Mg
 
 ### Anexo D — Presentación de Diapositivas
 
-https://www.canva.com/design/DAHDx1mxfrU/_kvbQFFQKFwYRRWyxJNCIg/edit?utm_content=DAHDx1mxfrU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton 
+- https://www.canva.com/design/DAHDx1mxfrU/_kvbQFFQKFwYRRWyxJNCIg/edit?utm_content=DAHDx1mxfrU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton 
+
+- https://www.canva.com/design/DAHE6U4sk3w/KJjzS2ueFbHZhtR33MvebQ/edit?utm_content=DAHE6U4sk3w&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 ---
 
