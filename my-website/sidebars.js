@@ -6,11 +6,11 @@ module.exports = {
       label: 'Análisis',
       link: {
         type: 'doc',
-        id: 'analisis-index', // Página principal de la carpeta
+        id: 'analisis/index',
       },
       items: [
-        'analisis-flujo-negocio',
-        'analisis-requisitos',
+        'analisis/flujo-negocio',
+        'analisis/requisitos',
       ],
     },
     // Sección de Propuesta
@@ -19,14 +19,14 @@ module.exports = {
       label: 'Propuesta',
       link: {
         type: 'doc',
-        id: 'propuesta-index',
+        id: 'propuesta/index', // Corregido: antes tenía guion
       },
       items: [
-        'propuesta-flujo-solucion',
-        'propuesta-acuerdos-tradeoffs',
-        'propuesta-elevator-pitch',
-        'propuesta-junta-directiva',
-        'propuesta-postmortem',
+        'propuesta/flujo-solucion',
+        'propuesta/acuerdos-tradeoffs',
+        'propuesta/elevator-pitch',
+        'propuesta/junta-directiva',
+        'propuesta/documento-postmortem',
       ],
     },
     // Sección de Recolección de Información
@@ -35,12 +35,12 @@ module.exports = {
       label: 'Recolección de Información',
       link: {
         type: 'doc',
-        id: 'recoleccion-index',
+        id: 'recoleccion-informacion/index',
       },
       items: [
-        'recoleccion-justificacion',
-        'recoleccion-preguntas',
-        'recoleccion-evidencias',
+        'recoleccion-informacion/justificacion', // Corregido: faltaba la "j" al inicio
+        'recoleccion-informacion/preguntas',
+        'recoleccion-informacion/evidencias',
       ],
     },
   ],
