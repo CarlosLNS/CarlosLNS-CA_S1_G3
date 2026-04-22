@@ -29,7 +29,7 @@ El objetivo de este análisis es identificar los puntos críticos y las oportuni
 
 ---
 
-## 1. Atención al cliente y venta
+### 1. Atención al cliente y venta
 
 ```text
 [Cliente llega al negocio]
@@ -63,7 +63,7 @@ El objetivo de este análisis es identificar los puntos críticos y las oportuni
       FIN
 ---
 
-### 2. Control de inventario (proceso paralelo)
+"## 2. Control de inventario (proceso paralelo)
 
 
 [Revisión periódica (cada cierto tiempo)]
