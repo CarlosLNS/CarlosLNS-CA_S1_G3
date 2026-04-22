@@ -3,6 +3,7 @@
 **Curso:** Comunicación Asertiva  
 **Sección:** A | **Grupo:** 3 |  
 **Ciclo:** 2026 
+
 **Coordinadora:** 202504807 - Jeimy Mariana González López
 
 **Integrantes:**
