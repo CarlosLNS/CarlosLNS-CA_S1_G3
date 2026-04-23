@@ -14,8 +14,6 @@
 
 **Link Notion:** https://www.notion.so/Proyecto-2-9343ef91e23383ac9e89810e3d9d2ed5
 
-**Link Docusaurus:** 
-
 ## Negociación Técnica en Equipos de Desarrollo de Software
  
 ## Descripción del proyecto
